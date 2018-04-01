@@ -46,7 +46,7 @@
 
         </td>
         <td>
-          <?php include('key.php') ?>
+          <?php include('main.php') ?>
 
         </td>
         <td>
@@ -55,6 +55,6 @@
       </tr>
     </table>
     <p>
-    <?php include('fail.php') ?></p>
+    <?php include('fails.php') ?></p>
   </body>
 </html>
